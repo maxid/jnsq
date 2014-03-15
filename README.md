@@ -1,0 +1,4 @@
+jnsq
+====
+
+NSQ Java client
